@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akiansam
+- 👀 I’m interested in music, art and technology
+- 🌱 I’m currently learning front-end development
+- 💞️ I’m looking to collaborate on design and art projects
+- 📫 find me on every social network you may think of as @akiansam
